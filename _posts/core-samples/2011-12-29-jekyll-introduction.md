@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Danni First blog
 category : lessons
 tags : [intro, beginner, jekyll, tutorial]
 ---
